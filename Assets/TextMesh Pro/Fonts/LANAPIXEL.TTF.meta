@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6cb7520c7ca4f6440845ddd4f7fc036a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - LanaPixel
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: adf0b9353c8109e47b9b93c7be94799a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
